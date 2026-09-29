@@ -1,0 +1,145 @@
+{
+  "recipes": [
+    {
+      "name": "Pancakes",
+      "aliases": ["pancake", "pancakes"],
+      "servings": 4,
+      "prep_time": "20 minutes",
+      "ingredients": [
+        "1.5 cups all-purpose flour",
+        "3.5 tsp baking powder",
+        "1 tsp salt",
+        "1 tbsp sugar",
+        "1.25 cups milk",
+        "1 egg",
+        "3 tbsp melted butter"
+      ],
+      "steps": [
+        "In a large bowl, whisk together flour, baking powder, salt, and sugar.",
+        "In another bowl, whisk milk, egg, and melted butter together.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined (a few lumps are fine).",
+        "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+        "Pour or scoop batter onto the griddle, using about 1/4 cup per pancake.",
+        "Cook until bubbles form on top, then flip and cook until golden brown on the other side.",
+        "Serve warm with syrup, fruit, or your favorite toppings."
+      ]
+    },
+    {
+      "name": "Spaghetti Aglio e Olio",
+      "aliases": ["spaghetti aglio e olio", "aglio e olio", "garlic spaghetti", "garlic pasta"],
+      "servings": 2,
+      "prep_time": "20 minutes",
+      "ingredients": [
+        "200g spaghetti",
+        "4 cloves garlic, thinly sliced",
+        "1/2 cup olive oil",
+        "1/2 tsp red pepper flakes",
+        "Salt to taste",
+        "Fresh parsley, chopped",
+        "Grated parmesan (optional)"
+      ],
+      "steps": [
+        "Cook spaghetti in salted boiling water until al dente. Reserve 1/2 cup pasta water, then drain.",
+        "While the pasta cooks, gently heat olive oil in a large pan over low heat.",
+        "Add sliced garlic and red pepper flakes, and cook slowly until garlic is golden (not browned).",
+        "Add the drained spaghetti to the pan, tossing to coat. Add a splash of reserved pasta water to loosen.",
+        "Season with salt, toss in chopped parsley, and serve immediately with parmesan if desired."
+      ]
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "aliases": ["fried rice", "chicken fried rice"],
+      "servings": 4,
+      "prep_time": "25 minutes",
+      "ingredients": [
+        "3 cups cooked, cold rice",
+        "2 boneless chicken breasts, diced",
+        "2 eggs, beaten",
+        "1 cup mixed vegetables (peas, carrots, corn)",
+        "3 cloves garlic, minced",
+        "3 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 tbsp vegetable oil",
+        "2 green onions, sliced"
+      ],
+      "steps": [
+        "Heat 1 tbsp vegetable oil in a large wok or pan over high heat. Cook the diced chicken until fully cooked, then set aside.",
+        "Add remaining oil, then scramble the eggs in the same pan until just set. Set aside with the chicken.",
+        "Add garlic and mixed vegetables to the pan, stir-frying for 2-3 minutes.",
+        "Add the cold rice, breaking up any clumps, and stir-fry for 3-4 minutes until heated through.",
+        "Return the chicken and eggs to the pan. Add soy sauce and sesame oil, tossing everything together.",
+        "Garnish with green onions and serve hot."
+      ]
+    },
+    {
+      "name": "Guacamole",
+      "aliases": ["guacamole", "guac"],
+      "servings": 4,
+      "prep_time": "10 minutes",
+      "ingredients": [
+        "3 ripe avocados",
+        "1 lime, juiced",
+        "1/2 tsp salt",
+        "1/2 cup diced onion",
+        "3 tbsp chopped cilantro",
+        "2 Roma tomatoes, diced",
+        "1 clove garlic, minced",
+        "Pinch of cayenne pepper (optional)"
+      ],
+      "steps": [
+        "Cut the avocados in half, remove the pit, and scoop the flesh into a bowl.",
+        "Mash the avocado with a fork, leaving it as chunky or smooth as you like.",
+        "Add lime juice and salt, and mix well.",
+        "Fold in onion, cilantro, tomatoes, and garlic.",
+        "Taste and adjust salt or lime juice as needed. Add cayenne for a bit of heat.",
+        "Serve immediately with tortilla chips."
+      ]
+    },
+    {
+      "name": "Classic Pancake-Free Omelette",
+      "aliases": ["omelette", "omelet", "cheese omelette"],
+      "servings": 1,
+      "prep_time": "10 minutes",
+      "ingredients": [
+        "2-3 large eggs",
+        "Salt and pepper to taste",
+        "1 tbsp butter",
+        "1/4 cup shredded cheese",
+        "Optional fillings: diced ham, spinach, mushrooms, peppers"
+      ],
+      "steps": [
+        "Whisk the eggs in a bowl with salt and pepper until well combined.",
+        "Heat butter in a non-stick pan over medium heat until melted and foaming.",
+        "Pour in the eggs, swirling the pan to coat the bottom evenly.",
+        "As the edges set, gently push them toward the center, tilting the pan so uncooked egg flows to the edges.",
+        "When the eggs are mostly set, sprinkle cheese and any fillings on one half.",
+        "Fold the omelette in half and slide it onto a plate. Serve immediately."
+      ]
+    },
+    {
+      "name": "Lentil Soup",
+      "aliases": ["lentil soup", "daal", "dal"],
+      "servings": 4,
+      "prep_time": "40 minutes",
+      "ingredients": [
+        "1 cup red lentils, rinsed",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 carrot, diced",
+        "1 tsp cumin",
+        "1/2 tsp turmeric",
+        "4 cups vegetable broth",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste",
+        "Lemon juice, to finish"
+      ],
+      "steps": [
+        "Heat olive oil in a large pot over medium heat. Add onion and carrot, and cook until softened, about 5 minutes.",
+        "Add garlic, cumin, and turmeric, and cook for 1 minute until fragrant.",
+        "Add the lentils and vegetable broth. Bring to a boil, then reduce heat and simmer for 20-25 minutes until lentils are soft.",
+        "Blend partially or fully for a smoother texture, if desired.",
+        "Season with salt and pepper, and finish with a squeeze of lemon juice before serving."
+      ]
+    }
+  ]
+}

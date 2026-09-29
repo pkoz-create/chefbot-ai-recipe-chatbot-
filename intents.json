@@ -1,0 +1,70 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hey", "Hello", "Good morning", "Good evening", "What's up", "Howdy", "Hey there"],
+      "responses": ["Hey there! I'm your recipe assistant. Ask me for a recipe, like 'how do I make pancakes?'", "Hello! What would you like to cook today?", "Hi! Tell me a dish and I'll give you the recipe."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "I am leaving", "Have a good day", "Catch you later", "Talk soon"],
+      "responses": ["Goodbye! Happy cooking!", "See you later, enjoy your meal!", "Bye! Come back for more recipes anytime."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for the recipe", "Appreciate it"],
+      "responses": ["You're welcome! Bon appetit!", "Anytime! Enjoy your cooking.", "Glad I could help! Let me know if you want another recipe."]
+    },
+    {
+      "tag": "name",
+      "patterns": ["What is your name?", "Who are you?", "What should I call you?", "Do you have a name?"],
+      "responses": ["I'm your friendly recipe chatbot! I can suggest dishes and walk you through how to make them.", "You can call me ChefBot."]
+    },
+    {
+      "tag": "capabilities",
+      "patterns": ["What can you do?", "How can you help me?", "What are your features?", "What do you know?"],
+      "responses": ["I can give you recipes, ingredients, and step-by-step instructions for a variety of dishes. Ask me for a recipe or say 'list recipes' to see what I know!"]
+    },
+    {
+      "tag": "help",
+      "patterns": ["help", "help me", "I need help", "commands", "what can I ask"],
+      "responses": ["Try asking things like: 'recipe for pancakes', 'how do I make guacamole', 'what ingredients do I need for fried rice', or 'list recipes' to see everything I know."]
+    },
+    {
+      "tag": "list_recipes",
+      "patterns": ["list recipes", "what recipes do you have", "show me all recipes", "what dishes can you make", "what can I cook", "give me some recipe ideas"],
+      "responses": ["__LIST_RECIPES__"]
+    },
+    {
+      "tag": "get_recipe",
+      "patterns": [
+        "How do I make pancakes?",
+        "Recipe for spaghetti aglio e olio",
+        "Give me the recipe for guacamole",
+        "What ingredients do I need for fried rice?",
+        "How do I cook lentil soup?",
+        "Can you show me how to make an omelette?",
+        "I want to make chicken fried rice",
+        "Tell me how to prepare pancakes",
+        "How to make guacamole",
+        "What's the recipe for lentil soup",
+        "How do I cook pasta aglio e olio",
+        "recipe please for omelette",
+        "How to prepare daal",
+        "steps to make pancakes",
+        "ingredients for guacamole"
+      ],
+      "responses": ["__GET_RECIPE__"]
+    },
+    {
+      "tag": "mood",
+      "patterns": ["How are you?", "How are you doing?", "Are you okay?", "How's it going?"],
+      "responses": ["I'm doing great and ready to cook! How about you?", "All good here! Hungry for a recipe?"]
+    },
+    {
+      "tag": "unknown",
+      "patterns": [],
+      "responses": ["I'm not sure what dish you mean. Try 'list recipes' to see what I know, or ask like 'recipe for pancakes'.", "Hmm, I didn't catch a recipe name there. Could you rephrase, e.g. 'how do I make guacamole?'"]
+    }
+  ]
+}
